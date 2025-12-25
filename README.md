@@ -1,4 +1,4 @@
-# 微信读书热门划线查询工具 (WeRead Hotlines Scraper)
+# 微信读书热门划线查询工具
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://www.ecma-international.org/)
